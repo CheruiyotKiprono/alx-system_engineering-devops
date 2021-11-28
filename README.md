@@ -1,1 +1,1 @@
-0. Where am I?
+This file is mandatory in all Alx school projects
